@@ -27,7 +27,7 @@ Click here - [Meditation Companion Repository](https://github.com/PentesterPriya
 ### 5. Live Link
 
 - [Live app](https://meditation-companion.vercel.app/)
-- *(Include a screenshot of your app's main screen here)*
+
 - ![image](https://github.com/user-attachments/assets/cd8cb698-f59b-464a-919c-90a7a59de698)
 
 
