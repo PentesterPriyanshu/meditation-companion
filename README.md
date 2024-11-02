@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Here's a README template tailored for your "Meditation Companion" project based on the provided format:
 
-## Getting Started
+---
 
-First, run the development server:
+# 1. Meditation Companion
+- **Meditation Prompt Display**: This app offers users calming meditation prompts, providing a peaceful space for mindfulness and introspection. Each prompt updates with an aesthetically pleasing real-time clock and date display.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Prompt Generation and Interaction**: Users can generate a new meditation prompt by pressing the "Generate New Meditation" button. Additionally, users can like and share their favorite prompts, promoting a sense of community and mindfulness. The prompts are displayed within a visually relaxing interface.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 2. Name of Issue/Topic
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+⭐ 07 - Meditation Companion App (Hacktoberfest Demo) #608
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 3. Technologies Being Used
 
-## Learn More
+List the technologies and frameworks you used (e.g., CopilotKit, Next.js)
+- [Next.js](https://nextjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [CopilotKit](https://copilotkit.ai)
+- [ShadCN](https://ui.shadcn.com)
+- ShadCN-UI Component Styling
 
-To learn more about Next.js, take a look at the following resources:
+## 4. GitHub Project Link
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Click here - [Meditation Companion Repository](https://github.com/PentesterPriyanshu/meditation-companion)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 5. Live Link
 
-## Deploy on Vercel
+- [Live app](https://meditation-companion.vercel.app/)
+- *(Include a screenshot of your app's main screen here)*
+- ![image](https://github.com/user-attachments/assets/cd8cb698-f59b-464a-919c-90a7a59de698)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## 7. Who am I?
+
+I am a developer passionate about creating mindfulness and wellness applications that enhance mental well-being.
+
+---
+
+# Issue #608: Build a Meditation Prompt Generator with User Interaction Using CopilotKit's AI Capabilities
+# Issue #780 ⭐ 33 - Real-Time Language Learning Assistant (Hacktoberfest Demo) 
