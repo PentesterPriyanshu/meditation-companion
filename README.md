@@ -34,8 +34,9 @@ Click here - [Meditation Companion Repository](https://github.com/PentesterPriya
 ## 7. Who am I?
 
 I am a developer passionate about creating mindfulness and wellness applications that enhance mental well-being.
+## 8.Social links
 
-# [github](https://github.com/PentesterPriyanshu/)
+[github](https://github.com/PentesterPriyanshu/)
 
 ---
 
