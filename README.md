@@ -9,8 +9,7 @@ Here's a README template tailored for your "Meditation Companion" project based 
 
 ## 2. Name of Issue/Topic
 
-⭐ 07 - Meditation Companion App (Hacktoberfest Demo) #608
-
+⭐  - Meditation Companion App (Hacktoberfest Demo) 
 ## 3. Technologies Being Used
 
 List the technologies and frameworks you used (e.g., CopilotKit, Next.js)
@@ -38,5 +37,3 @@ I am a developer passionate about creating mindfulness and wellness applications
 
 ---
 
-# Issue #608: Build a Meditation Prompt Generator with User Interaction Using CopilotKit's AI Capabilities
-# Issue #780 ⭐ 33 - Real-Time Language Learning Assistant (Hacktoberfest Demo) 
